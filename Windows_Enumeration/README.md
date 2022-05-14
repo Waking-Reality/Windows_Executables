@@ -24,4 +24,4 @@ This Executable will gather information about the following:
      Trusted Windows Remote Management Clients
      Volume Copy Shadow Service
 
-The information that it gathers will be placed in "C:\Investigation" and will opent the folder upon completion.
+The information that it gathers will be placed in "C:\Investigation".
