@@ -1,5 +1,4 @@
-=================================================================================
-========== BE AWARE THAT THIS EXECUTABLE WILL TAKE A LONG TIME TO RUN. ==========
+BE AWARE THAT THIS EXECUTABLE WILL TAKE A LONG TIME TO RUN.
 =================================================================================
 
 This Executable will gather information about the following:
