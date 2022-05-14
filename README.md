@@ -6,7 +6,7 @@ I have recently started creating executables for Winodws based on things I have 
 
 For general assurance  that you're getting the file I created, I will be hashing each of them in MD5 and SHA1. This can be found by the following process:
 
-[FILE] > [Add files via upload]
+[SELECTED_FILE] > "History" > "Add files via upload"
 
 Good luck and I hope that these assist you in your tasks,
 
