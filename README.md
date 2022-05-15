@@ -8,7 +8,7 @@ For general assurance  that you're getting the file I created, I will be hashing
 
 [SELECTED_FILE] > "Add files via upload"
 
-![Find_Hashes](https://user-images.githubusercontent.com/69497564/168492071-fabd942d-efe8-4709-bd79-f5c722e52c1c.gif)
+![Find_Hashes](https://user-images.githubusercontent.com/69497564/168492181-7cf41b3b-ae73-4045-8a9f-62fb85244202.gif)
 
 Good luck and I hope that these assist you in your tasks,
 
