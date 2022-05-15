@@ -22,4 +22,6 @@ This Executable will gather information about the following:
      Server Message Block Shares
      Trusted Windows Remote Management Clients
 
-The information that it gathers will be placed in "C:\Investigation". Be aware that this will remove a folder called "Investigation" if there is one "C:\Investigation".
+The information that it gathers will be placed in "C:\Investigation". 
+
+Be aware that this will remove a folder called "Investigation" if there is one "C:\Investigation".
