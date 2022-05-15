@@ -1,4 +1,4 @@
-BE AWARE THAT THIS EXECUTABLE WILL TAKE A LONG TIME TO RUN
+BE AWARE THAT THIS EXECUTABLE MAY TAKE A LONG TIME TO RUN
 =================================================================================
 
 This Executable will gather information about the following:
@@ -12,7 +12,6 @@ This Executable will gather information about the following:
      ETC Hosts
      Event Logs
      Files
-     Files: Access Control Lists
      HK(CU/LM/U) Run Key
      Local Groups
      Local Users
@@ -22,6 +21,5 @@ This Executable will gather information about the following:
      Scheduled Tasks
      Server Message Block Shares
      Trusted Windows Remote Management Clients
-     Volume Copy Shadow Service
 
 The information that it gathers will be placed in "C:\Investigation".
