@@ -24,4 +24,4 @@ This Executable will gather information about the following:
 
 The information that it gathers will be placed in "C:\Investigation". 
 
-Be aware that this will remove a folder called "Investigation" if there is one "C:\Investigation".
+Be aware that this will remove a folder called "Investigation" if there is one located at "C:\Investigation".
