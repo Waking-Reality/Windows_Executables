@@ -27,3 +27,5 @@ The information that it gathers will be placed in "C:\Investigation".
 Be aware that this will remove a folder called "Investigation" if there is one located at "C:\Investigation".
 
 This was tested with systems that have PowerShell 5.1 installed. Other versions may result in items not being collected.
+
+![Screen_Capture](https://user-images.githubusercontent.com/69497564/169200967-e63d4ef4-58a1-4d2b-822a-50a0182c2a8a.png)
