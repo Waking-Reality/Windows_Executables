@@ -35,5 +35,3 @@ Digital signatures act as a tamper-evident seal. They do not hide the contents o
 3. Select the `.sig` signature file they provided.
 4. Select the original file they sent. 
 5. The tool will cross-reference the hash and the key, alerting you with a "Verified OK" message if the file is authentic, or a warning if it has been tampered with.
-
-Always encrypt your file then sign to ensure that the file hasn't been tampered with.
